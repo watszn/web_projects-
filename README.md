@@ -1,2 +1,2 @@
-# web_projects-
-Repository of many js/html/css projects 
+# Web Projects
+- A repository of several web projects 
