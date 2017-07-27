@@ -1,0 +1,27 @@
+head {
+
+}
+
+body {
+  background: linear-gradient(200deg, #19103c, #2a06b8, #8897fa);
+  font-family: arial;
+  transition: all .5s ease;
+  z-index: 2;
+  opacity: 0;
+  visibility: hidden;
+  position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+nav {
+    list-style-type: none;
+
+
+}
